@@ -6,9 +6,6 @@ d
 123
 456
 .11
-.2232
-
-
+.22
 asa;slkdjf;alskdfj;alsdjf;asldkjfa;sdlkjfas;lkjfa;slkdjlk;asdjfa;sdlkjasd';a
-s;dfj
 as;dfj'aslkjdf;alsdkjf;asldkjf;alsdkfjas
